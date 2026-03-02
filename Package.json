@@ -1,7 +1,6 @@
 {
   "name": "trading-engine",
   "version": "1.0.0",
-  "description": "Trading Simulation Engine",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
